@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "save_extraction_py",
+      "label": "save_extraction.py",
+      "file_type": "code",
+      "source_file": "save_extraction.py",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [
+    {
+      "source": "save_extraction_py",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "save_extraction.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "save_extraction_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "save_extraction.py",
+      "source_location": "L2",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

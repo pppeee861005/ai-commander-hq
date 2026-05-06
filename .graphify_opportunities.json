@@ -1,0 +1,27 @@
+[
+  {
+    "theme": "3D 建模戰場",
+    "node_count": 3,
+    "nodes": [
+      "Claude System Architecture",
+      "Blender BIM 自動化突破",
+      "Claude 攻佔 3D 建模戰場"
+    ]
+  },
+  {
+    "theme": "社媒引流",
+    "node_count": 2,
+    "nodes": [
+      "Facebook Engagement SOP",
+      "執行層出口驗收 SOP"
+    ]
+  },
+  {
+    "theme": "引力理論",
+    "node_count": 2,
+    "nodes": [
+      "數位資產引力理論 v1.0",
+      "用引力理論重寫的 Anthropic 故事"
+    ]
+  }
+]

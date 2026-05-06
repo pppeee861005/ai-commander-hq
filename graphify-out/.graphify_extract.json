@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "aion",
+      "label": "AION生態",
+      "file_type": "rationale"
+    },
+    {
+      "id": "agentic_alpha",
+      "label": "Agentic Alpha",
+      "file_type": "rationale"
+    },
+    {
+      "id": "middle_layer_revolution",
+      "label": "中間層革命",
+      "file_type": "rationale"
+    },
+    {
+      "id": "l3_skill",
+      "label": "L3 Skill Foundry",
+      "file_type": "rationale"
+    },
+    {
+      "id": "software3",
+      "label": "Software 3.0",
+      "file_type": "rationale"
+    },
+    {
+      "id": "sleep_learning",
+      "label": "邊睡邊學",
+      "file_type": "rationale"
+    },
+    {
+      "id": "homo_coalitio",
+      "label": "新人類聯盟",
+      "file_type": "rationale"
+    },
+    {
+      "id": "execution_sop",
+      "label": "執行層SOP",
+      "file_type": "document"
+    },
+    {
+      "id": "claude_code",
+      "label": "Claude Code",
+      "file_type": "rationale"
+    },
+    {
+      "id": "flow_concept",
+      "label": "流的概念",
+      "file_type": "rationale"
+    }
+  ],
+  "edges": [
+    {
+      "source": "aion",
+      "target": "agentic_alpha",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "middle_layer_revolution",
+      "target": "l3_skill",
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85
+    },
+    {
+      "source": "l3_skill",
+      "target": "software3",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "sleep_learning",
+      "target": "homo_coalitio",
+      "relation": "exemplifies",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8
+    },
+    {
+      "source": "aion",
+      "target": "flow_concept",
+      "relation": "based_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "claude_code",
+      "target": "l3_skill",
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 100443,
+  "output_tokens": 14671
+}

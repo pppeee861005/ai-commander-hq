@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "save_extraction_py",
+      "label": "save_extraction.py",
+      "file_type": "code",
+      "source_file": "save_extraction.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "claude_system_architecture",
+      "label": "Claude System Architecture",
+      "file_type": "document",
+      "source_file": "claude.md",
+      "source_location": null
+    },
+    {
+      "id": "aion_worldview",
+      "label": "AION Worldview v1",
+      "file_type": "document",
+      "source_file": "\u6709\u8208\u8da3\u7684\u4e3b\u984c/AION_Worldview_v1.md"
+    },
+    {
+      "id": "agentic_writing_guide",
+      "label": "Agentic Writing Guide",
+      "file_type": "document",
+      "source_file": "\u6709\u8208\u8da3\u7684\u4e3b\u984c/Agentic_Writing_Guide.md"
+    },
+    {
+      "id": "knowledge_graph_urban_renewal_draft",
+      "label": "Knowledge Graph Urban Renewal Initial Draft",
+      "file_type": "document",
+      "source_file": "\u6709\u8208\u8da3\u7684\u4e3b\u984c/\u77e5\u8b58\u5716\u8b5c_\u90fd\u66f4_agent/\u521d\u6b65\u8349\u7a3f.md"
+    },
+    {
+      "id": "fb_engagement_sop",
+      "label": "Facebook Engagement SOP",
+      "file_type": "document",
+      "source_file": "\u26a1-\u4f5c\u6230\u5305\u5eab/FB-\u5f15\u529b\u8cbc\u6587-SOP.md"
+    },
+    {
+      "id": "digital_asset_gravity_theory_v1",
+      "label": "\u6578\u4f4d\u8cc7\u7522\u5f15\u529b\u7406\u8ad6 v1.0",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/\u6578\u4f4d\u8cc7\u7522\u5f15\u529b\u7406\u8ad6-v1.0.md"
+    },
+    {
+      "id": "anthropic_gravity_theory",
+      "label": "\u7528\u5f15\u529b\u7406\u8ad6\u91cd\u5beb\u7684 Anthropic \u6545\u4e8b",
+      "file_type": "document",
+      "source_file": "\u984c\u6750/anthropic_kill/\ud83d\udd34-\u7528\u5f15\u529b\u7406\u8ad6\u91cd\u5beb\u7684Anthropic\u6545\u4e8b.md"
+    },
+    {
+      "id": "blender_bim_automation",
+      "label": "Blender BIM \u81ea\u52d5\u5316\u7a81\u7834",
+      "file_type": "document",
+      "source_file": "\ud83c\udf0d-\u540c\u6b65\u73fe\u6cc1/2026.05.03-Blender-BIM\u81ea\u52d5\u5316\u7a81\u7834.md"
+    },
+    {
+      "id": "claude_3d_modeling",
+      "label": "Claude \u653b\u4f54 3D \u5efa\u6a21\u6230\u5834",
+      "file_type": "document",
+      "source_file": "\ud83c\udf0d-\u540c\u6b65\u73fe\u6cc1/2026.05.03-Claude\u653b\u4f543D\u5efa\u6a21\u6230\u5834.md"
+    },
+    {
+      "id": "acceptance_sop",
+      "label": "\u57f7\u884c\u5c64\u51fa\u53e3\u9a57\u6536 SOP",
+      "file_type": "document",
+      "source_file": "\ud83d\udee0-\u6b66\u5668\u5eab/\u57f7\u884c\u5c64\u51fa\u53e3\u9a57\u6536SOP.md"
+    },
+    {
+      "id": "worklog_20260503",
+      "label": "2026.05.03 \u5de5\u4f5c\u65e5\u8a8c",
+      "file_type": "document",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.03-\u5de5\u4f5c\u65e5\u8a8c.md"
+    },
+    {
+      "id": "cowork_concept",
+      "label": "Cowork (AI \u539f\u751f\u5de5\u4f5c\u6d41\u5f15\u64ce)",
+      "file_type": "rationale",
+      "source_file": "\ud83e\udde0-\u5b78\u7fd2\u5099\u5fd8\u9304\u6b78\u6a94/2026.05.03.md"
+    },
+    {
+      "id": "computer_use_concept",
+      "label": "Computer Use (\u901a\u7528\u64cd\u4f5c\u4ecb\u9762)",
+      "file_type": "rationale",
+      "source_file": "\ud83e\udde0-\u5b78\u7fd2\u5099\u5fd8\u9304\u6b78\u6a94/2026.05.03.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "save_extraction_py",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "save_extraction.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "save_extraction_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "save_extraction.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "claude_system_architecture",
+      "target": "aion_worldview",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 20000,
+  "output_tokens": 5000
+}
