@@ -145,7 +145,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "notebooklm",
       "id": "notebooklm"
     },
@@ -171,7 +171,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "hermes agent",
       "id": "hermes_agent"
     },
@@ -197,7 +197,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "\u7576\u300c\u571f\u8c6a\u300d\u4e5f\u958b\u59cb\u7f3a\u7f8e\u5143\u2014\u2014\u77f3\u6cb9\u7f8e\u5143\u9ad4\u7cfb\u88c2\u7e2b\u5206\u6790",
       "id": "fb_uae_dollar_crisis"
     },
@@ -223,7 +223,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "claude code",
       "id": "claude_code"
     },
@@ -262,7 +262,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "\u77f3\u6cb9\u7f8e\u5143\u9ad4\u7cfb",
       "id": "petrodollar_system"
     },
@@ -275,7 +275,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "\u963f\u806f\u914b\u592e\u884c",
       "id": "uae_central_bank"
     },
@@ -288,7 +288,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "\u7f8e\u806f\u5132",
       "id": "federal_reserve"
     },
@@ -301,7 +301,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "bessent(\u7f8e\u570b\u8ca1\u653f\u90e8\u9577)",
       "id": "bessent"
     },
@@ -314,7 +314,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "2026\u5e74\u4f0a\u6717\u6230\u722d",
       "id": "iran_war_2026"
     },
@@ -327,7 +327,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "\u970d\u723e\u6728\u8332\u6d77\u5cfd",
       "id": "strait_of_hormuz"
     },
@@ -340,7 +340,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "\u4eba\u6c11\u5e63\u7d50\u7b97",
       "id": "renminbi_settlement"
     },
@@ -535,7 +535,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "ai podcast \u5b78\u7fd2\u6cd5",
       "id": "ai_podcast_learning"
     },
@@ -548,7 +548,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u5f71\u7247\u81ea\u52d5\u8f49\u7b46\u8a18",
       "id": "video_to_notes"
     },
@@ -574,7 +574,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u77e5\u8b58\u7926\u5c71\u6642\u4ee3",
       "id": "fengshenlu_knowledge_mining_era"
     },
@@ -587,7 +587,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u98a8\u795e\u6838\u5fc3\u4f7f\u547d\u98db\u8f2a",
       "id": "fengshenlu_mission_flywheel"
     },
@@ -600,7 +600,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u98a8\u795e\u9031\u884c\u52d5sop",
       "id": "fengshenlu_weekly_sop"
     },
@@ -613,7 +613,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u8d85\u7d1a\u500b\u9ad4",
       "id": "fengshenlu_super_individual"
     },
@@ -626,7 +626,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u98a8\u795e\u6cd5\u5247:\u9700\u6c42\u55c5\u63a2\u8853",
       "id": "fengshenlu_demand_sniffing_rule"
     },
@@ -639,7 +639,7 @@
       "captured_at": null,
       "author": "Thomas Friedman",
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u300a\u4e16\u754c\u662f\u5e73\u7684\u300b",
       "id": "fengshenlu_friedman_world_is_flat"
     },
@@ -652,7 +652,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u9ad8\u5fb7\u5730\u5716",
       "id": "gaode_map_gaode_maps"
     },
@@ -665,7 +665,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "here maps",
       "id": "gaode_map_here_maps"
     },
@@ -678,7 +678,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "google maps",
       "id": "gaode_map_google_maps"
     },
@@ -691,7 +691,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u4e94\u5c64\u8cc7\u7522\u6a21\u578b",
       "id": "gaode_map_five_layer_asset_model"
     },
@@ -704,7 +704,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "claude cowork",
       "id": "anthropic_kill_claude_cowork"
     },
@@ -717,7 +717,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "enterprise plugins",
       "id": "anthropic_kill_claude_enterprise_plugins"
     },
@@ -730,7 +730,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "claude skills",
       "id": "anthropic_kill_claude_skills"
     },
@@ -743,7 +743,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "claude routines",
       "id": "anthropic_kill_claude_routines"
     },
@@ -756,7 +756,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "gpt image 2",
       "id": "anthropic_kill_gpt_image_2"
     },
@@ -769,7 +769,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "make.com",
       "id": "anthropic_kill_make_com"
     },
@@ -782,7 +782,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "n8n",
       "id": "anthropic_kill_n8n"
     },
@@ -795,7 +795,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "uipath",
       "id": "anthropic_kill_uipath"
     },
@@ -808,7 +808,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "canva",
       "id": "anthropic_kill_canva"
     },
@@ -821,7 +821,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "stripe",
       "id": "anthropic_kill_stripe"
     },
@@ -834,7 +834,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "notion",
       "id": "anthropic_kill_notion"
     },
@@ -847,7 +847,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "atlassian",
       "id": "anthropic_kill_atlassian"
     },
@@ -860,7 +860,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "cloudflare",
       "id": "anthropic_kill_cloudflare"
     },
@@ -873,7 +873,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "vercel",
       "id": "anthropic_kill_vercel"
     },
@@ -886,7 +886,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "ramp",
       "id": "anthropic_kill_ramp"
     },
@@ -899,7 +899,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "sentry",
       "id": "anthropic_kill_sentry"
     },
@@ -912,7 +912,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "mike krieger",
       "id": "anthropic_prelude_mike_krieger"
     },
@@ -925,7 +925,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "dylan field",
       "id": "anthropic_prelude_dylan_field"
     },
@@ -938,7 +938,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "claude dispatch",
       "id": "anthropic_prelude_claude_dispatch"
     },
@@ -951,7 +951,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "claude vertical agents",
       "id": "anthropic_prelude_claude_vertical_agents"
     },
@@ -964,7 +964,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "\u6578\u4f4d\u8cc7\u7522\u5f15\u529b\u7406\u8ad6",
       "id": "anthropic_gravity_digital_asset_gravity_theory"
     },
@@ -977,7 +977,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "\u5f15\u529b\u4e95",
       "id": "anthropic_gravity_gravity_well"
     },
@@ -990,7 +990,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "\u5f15\u529b\u6d29\u6f0f",
       "id": "anthropic_gravity_gravity_leakage"
     },
@@ -1003,7 +1003,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "hub\u7b56\u7565",
       "id": "anthropic_gravity_hub_strategy"
     },
@@ -1016,7 +1016,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u5f15\u529b\u8f49\u8b6f\u8005",
       "id": "anthropic_gravity_gravity_translator"
     },
@@ -1029,7 +1029,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u5f15\u529b\u591a\u5143\u5316\u8005",
       "id": "anthropic_gravity_gravity_diversifier"
     },
@@ -1042,7 +1042,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u5f15\u529b\u4fdd\u885b\u8005",
       "id": "anthropic_gravity_gravity_defender"
     },
@@ -1068,7 +1068,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "no-code\u9023\u63a5\u5668 (zapier, make.com)",
       "id": "anthropic_market_vacuum_nocode_connectors"
     },
@@ -1081,7 +1081,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "rpa\u5e73\u53f0 (uipath, aa)",
       "id": "anthropic_market_vacuum_rpa_platforms"
     },
@@ -1107,7 +1107,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "ai agent \u5ba2\u88fd\u5316\u670d\u52d9",
       "id": "anthropic_market_vacuum_ai_agent_custom"
     },
@@ -1120,7 +1120,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "rpa\u9077\u79fb\u670d\u52d9",
       "id": "anthropic_market_vacuum_rpa_migration"
     },
@@ -1133,7 +1133,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 17,
       "norm_label": "2026\u5e74\u5269\u99186-12\u500b\u6708\u7684\u95dc\u9375\u7a97\u53e3",
       "id": "anthropic_market_vacuum_critical_window"
     },
@@ -1146,7 +1146,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 18,
       "norm_label": "\u4e09\u5c64\u8b77\u57ce\u6cb3\u7684\u7cfb\u7d71\u6027\u5d29\u6f70",
       "id": "anthropic_moat_destruction_title"
     },
@@ -1159,7 +1159,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "\u7b2c\u4e00\u5c64:\u61c9\u7528\u5c64\u2014\u2014\u300c\u96c6\u6210\u300d\u5047\u8a2d",
       "id": "anthropic_moat_destruction_layer1"
     },
@@ -1172,7 +1172,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "\u7b2c\u4e8c\u5c64:\u7d44\u7e54\u5c64\u2014\u2014\u300c\u4eba\u529b\u300d\u5047\u8a2d",
       "id": "anthropic_moat_destruction_layer2"
     },
@@ -1185,7 +1185,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 19,
       "norm_label": "\u7b2c\u4e09\u5c64:\u67b6\u69cb\u5c64\u2014\u2014api\u4f9d\u8cf4\u8207\u4e92\u901a\u6027",
       "id": "anthropic_moat_destruction_layer3"
     },
@@ -1198,7 +1198,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "\u7b2c\u4e00\u6ce2:\u5b9a\u6642\u4efb\u52d9+\u884c\u92b7\u5916\u639b (2\u670825\u65e5)",
       "id": "anthropic_three_wave_attack_wave1"
     },
@@ -1211,7 +1211,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "\u7b2c\u4e8c\u6ce2:\u8de8\u88dd\u7f6e\u975e\u540c\u6b65\u4ee3\u7406 (3\u670819\u65e5)",
       "id": "anthropic_three_wave_attack_wave2"
     },
@@ -1224,7 +1224,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 19,
+      "community": 20,
       "norm_label": "\u7b2c\u4e09\u6ce2:computeruse (3\u670823\u65e5)",
       "id": "anthropic_three_wave_attack_wave3"
     },
@@ -1237,7 +1237,7 @@
       "captured_at": "2026-05-03",
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "blender + bonsai bim \u81ea\u52d5\u5316\u7a81\u7834",
       "id": "sync_blender_bim_automation"
     },
@@ -1250,7 +1250,7 @@
       "captured_at": "2026-05-03",
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "claude \u653b\u5165 3d \u5efa\u6a21\u6230\u5834 (sketchup \u81ea\u52d5\u5316)",
       "id": "sync_claude_3d_modeling"
     },
@@ -1263,7 +1263,7 @@
       "captured_at": "2026-05-05",
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "agent \u7406\u89e3\u529b\u5927\u5e45\u63d0\u5347 (gitnexus, graphify, botebooklm)",
       "id": "sync_260505_agent_tools"
     },
@@ -1276,7 +1276,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "claude max $100/\u6708",
       "id": "claude_max"
     },
@@ -1289,7 +1289,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "revit (\u5546\u696dbim\u8edf\u9ad4)",
       "id": "revit"
     },
@@ -1302,7 +1302,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "sketchup",
       "id": "sketchup"
     },
@@ -1328,7 +1328,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "l3 agents (\u81ea\u4e3b\u57f7\u884c\u5c64)",
       "id": "l3_agents"
     },
@@ -1341,7 +1341,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "l4 \u6230\u7565\u6307\u63ee\u5c64",
       "id": "l4_strategic_command"
     },
@@ -1354,7 +1354,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "l5 \u5c08\u6709\u8cc7\u6599/ip/\u8cac\u4efb",
       "id": "l5_proprietary_data"
     },
@@ -1367,7 +1367,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "gitnexus",
       "id": "gitnexus"
     },
@@ -1380,7 +1380,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "graphify",
       "id": "graphify"
     },
@@ -1393,7 +1393,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "botebooklm",
       "id": "botebooklm"
     },
@@ -1406,7 +1406,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "ifc\u570b\u969b\u6a19\u6e96",
       "id": "ifc_standard"
     },
@@ -1419,7 +1419,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "python\u8173\u672c\u64cd\u63a7blender api",
       "id": "python_blender_api"
     },
@@ -1432,7 +1432,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "codex (\u57f7\u884c\u5c64)",
       "id": "codex"
     },
@@ -1458,7 +1458,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 8,
       "norm_label": "\u6578\u4f4d\u5b7f\u751f (digital twin)",
       "id": "bim_digital_twin"
     },
@@ -1471,7 +1471,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "anthropic \u5f15\u529b\u53cd\u8f49",
       "id": "_anthropic_gravity_reversal"
     },
@@ -1484,7 +1484,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "cowork \u767c\u5e03",
       "id": "_cowork_release"
     },
@@ -1497,7 +1497,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "dispatch \u767c\u5e03",
       "id": "_dispatch_release"
     },
@@ -1510,7 +1510,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 2,
       "norm_label": "computer use \u6280\u8853\u6210\u719f",
       "id": "_computer_use_mature"
     },
@@ -1523,7 +1523,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "claude design \u767c\u5e03",
       "id": "_claude_design_release"
     },
@@ -1536,7 +1536,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "openclaw",
       "id": "_openclaw"
     },
@@ -1549,7 +1549,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "gemini cli",
       "id": "_gemini_cli"
     },
@@ -1562,7 +1562,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "vs code",
       "id": "_vs_code"
     },
@@ -1575,7 +1575,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "cursor",
       "id": "_cursor"
     },
@@ -1588,7 +1588,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "windsurf (mevus)",
       "id": "_windsurf_mevus"
     },
@@ -1601,7 +1601,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "cline (\u539f claude dev)",
       "id": "_cline"
     },
@@ -1614,7 +1614,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "lovable",
       "id": "_lovable"
     },
@@ -1627,7 +1627,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "blender",
       "id": "_blender"
     },
@@ -1640,7 +1640,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 9,
       "norm_label": "zapier",
       "id": "_zapier"
     },
@@ -1653,7 +1653,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "bpo \u7522\u696d",
       "id": "_bpo_industry"
     },
@@ -1666,7 +1666,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "figma",
       "id": "_figma"
     },
@@ -1679,7 +1679,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "bonsai bim",
       "id": "_bonsai_bim"
     },
@@ -1692,7 +1692,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "agent \u80fd\u529b\u57fa\u7dda\u5feb\u7167",
       "id": "_agent_capability_baseline"
     },
@@ -1705,7 +1705,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "\u5beb\u4f5c\u5fc3\u6cd5",
       "id": "_writing_methodology"
     },
@@ -1718,7 +1718,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "\u540c\u6b65\u73fe\u6cc1 readme",
       "id": "_sync_status_readme"
     },
@@ -2056,7 +2056,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u77e5\u8b58\u751f\u7522\u7cfb\u7d71",
       "id": "claude_knowledge_production_system"
     },
@@ -2069,7 +2069,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u4e3b\u661f\u767c\u5e03\u5eab",
       "id": "claude_hub_repo"
     },
@@ -2082,7 +2082,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u6230\u7565\u5fc3\u6cd5\u5eab",
       "id": "claude_strategy_lib"
     },
@@ -2095,7 +2095,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u4f5c\u6230\u5305\u5eab",
       "id": "claude_battle_pack_lib"
     },
@@ -2108,7 +2108,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u6b66\u5668\u5eab",
       "id": "claude_weapon_lib"
     },
@@ -2121,7 +2121,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u9031\u7bc0\u594f\u63a7\u5236\u53f0",
       "id": "claude_weekly_console"
     },
@@ -2134,7 +2134,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u5b78\u7fd2\u5099\u5fd8\u9304",
       "id": "claude_learning_memo"
     },
@@ -2147,7 +2147,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u6307\u63ee\u5b98(\u7528\u6236)",
       "id": "claude_commander_role"
     },
@@ -2160,7 +2160,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u66f4\u65b0\u57fa\u7dda",
       "id": "claude_baseline_update"
     },
@@ -2173,7 +2173,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u540c\u6b65\u73fe\u6cc1",
       "id": "claude_sync_status"
     },
@@ -2186,7 +2186,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u6821\u6e96\u7406\u89e3",
       "id": "claude_calibrate_understanding"
     },
@@ -2199,7 +2199,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u6578\u4f4d\u8cc7\u7522\u5f15\u529b\u7406\u8ad6",
       "id": "gemini_gravity_theory"
     },
@@ -2212,7 +2212,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "hub-and-spoke \u7d50\u69cb",
       "id": "gemini_hub_and_spoke"
     },
@@ -2225,7 +2225,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u65b0\u4eba\u985e\u806f\u76df\u6cbb\u7406\u6a21\u5f0f",
       "id": "gemini_new_human_alliance"
     },
@@ -2238,7 +2238,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u6230\u7565\u5c64",
       "id": "gemini_strategic_layer"
     },
@@ -2251,7 +2251,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u57f7\u884c\u5c64",
       "id": "gemini_execution_layer"
     },
@@ -2264,7 +2264,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u8f3b\u5c04\u5c64",
       "id": "gemini_radiation_layer"
     },
@@ -2277,7 +2277,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u77e5\u8b58\u5eab\u67b6\u69cb",
       "id": "readme_knowledge_base_architecture"
     },
@@ -2290,7 +2290,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u6210\u9577\u8a08\u756b\u5eab",
       "id": "readme_growth_plan_lib"
     },
@@ -2303,7 +2303,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u5de5\u4f5c\u65e5\u8a8c\u5eab",
       "id": "readme_work_log_lib"
     },
@@ -2316,7 +2316,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 4,
       "norm_label": "\u540c\u6b65\u73fe\u6cc1",
       "id": "readme_sync_status_global"
     },
@@ -2329,7 +2329,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "graphify kimi \u6574\u5408\u6307\u5357",
       "id": "usekimi_graphify_kimi_integration"
     },
@@ -2342,7 +2342,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 8,
       "norm_label": "kimi k2.6",
       "id": "usekimi_kimi_k26"
     },
@@ -2355,7 +2355,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 16,
       "norm_label": "openrouter api key",
       "id": "hermey_openrouter_api_key"
     },
@@ -2368,7 +2368,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 16,
       "norm_label": "ssh connection to 45.76.149.152",
       "id": "hermey_ssh_connection"
     },
@@ -2381,7 +2381,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "fb gravity post sop",
       "id": "fb_sop_gravity_post"
     },
@@ -2394,7 +2394,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "battle pack library readme",
       "id": "readme_battle_pack_library"
     },
@@ -2407,7 +2407,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "gravity tether role",
       "id": "readme_gravity_tether_role"
     },
@@ -2420,7 +2420,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "weekly engagement sop",
       "id": "weekly_engagement_sop"
     },
@@ -2433,7 +2433,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "agentic alpha first report",
       "id": "agentic_alpha_report"
     },
@@ -2446,7 +2446,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "notebooklm brain layer",
       "id": "agentic_alpha_brain_notebooklm"
     },
@@ -2459,7 +2459,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "futu api eye layer",
       "id": "agentic_alpha_eye_futu_api"
     },
@@ -2472,7 +2472,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "python executor hand layer",
       "id": "agentic_alpha_hand_python"
     },
@@ -2485,7 +2485,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "agent-quant-foundation github repository",
       "id": "agentic_alpha_github_repo"
     },
@@ -2498,7 +2498,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "notebooklm-py repository",
       "id": "notebooklm_py_repo"
     },
@@ -2511,7 +2511,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "py-futu-api repository",
       "id": "py_futu_api_repo"
     },
@@ -2524,7 +2524,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "fb drain post sop",
       "id": "fb_sop_drain_post"
     },
@@ -2537,7 +2537,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "substack layout sop",
       "id": "substack_layout_sop"
     },
@@ -2550,7 +2550,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "comment response template",
       "id": "comment_response_template"
     },
@@ -2563,7 +2563,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "operation gravity strategy v1.0",
       "id": "operation_gravity_strategy"
     },
@@ -2576,7 +2576,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "agentic \u56db\u67f1\u901a\u7528\u5beb\u4f5c\u5b88\u5247",
       "id": "agentic_writing_guide_agentic_writing_guide"
     },
@@ -2589,7 +2589,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "agentic alpha(\u91d1\u878d)",
       "id": "agentic_alpha_agentic_alpha"
     },
@@ -2602,7 +2602,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "agentic logos(\u77e5\u8b58)",
       "id": "agentic_logos_agentic_logos"
     },
@@ -2615,7 +2615,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "agentic sigma(\u79d1\u5b78)",
       "id": "agentic_sigma_agentic_sigma"
     },
@@ -2628,7 +2628,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "agentic praxis(\u57f7\u884c)",
       "id": "agentic_praxis_agentic_praxis"
     },
@@ -2641,7 +2641,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "agentic mythos(\u6558\u4e8b)",
       "id": "agentic_mythos_agentic_mythos"
     },
@@ -2654,7 +2654,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "aion",
       "id": "aion_aion"
     },
@@ -2667,7 +2667,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "\u65b0\u4eba\u985e\u806f\u76df(homo coalitio)",
       "id": "homo_coalitio_homo_coalitio"
     },
@@ -2680,7 +2680,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "substack",
       "id": "substack_substack"
     },
@@ -2693,7 +2693,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "github",
       "id": "github_github"
     },
@@ -2706,7 +2706,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "llm",
       "id": "llm_llm"
     },
@@ -2719,7 +2719,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "claude",
       "id": "claude_claude"
     },
@@ -2732,7 +2732,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "gpt",
       "id": "gpt_gpt"
     },
@@ -2745,7 +2745,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "gemini",
       "id": "gemini_gemini"
     },
@@ -2758,7 +2758,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "deepseek",
       "id": "deepseek_deepseek"
     },
@@ -2771,7 +2771,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 5,
       "norm_label": "2026\u5e745\u67085\u65e5",
       "id": "aion_genesis_declaration_draft_aion_creation_date"
     },
@@ -2784,7 +2784,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u53f0\u5317\u5e02\u90fd\u5e02\u66f4\u65b0\u77e5\u8b58\u5716\u8b5c",
       "id": "ai_understanding_taipei_urban_renewal"
     },
@@ -2797,7 +2797,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5efa\u7bc9\u6cd5\u898f",
       "id": "ai_understanding_building_regulations"
     },
@@ -2810,7 +2810,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5bb9\u7a4d\u734e\u52f5\u6a5f\u5236",
       "id": "ai_understanding_floor_area_bonus"
     },
@@ -2823,7 +2823,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u90fd\u66f4\u878d\u8cc7\u5229\u606f",
       "id": "ai_understanding_loan_interest"
     },
@@ -2836,7 +2836,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5efa\u5546\u614b\u5ea6",
       "id": "ai_understanding_developer_attitude"
     },
@@ -2849,7 +2849,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u653f\u5e9c\u614b\u5ea6",
       "id": "ai_understanding_government_attitude"
     },
@@ -2862,7 +2862,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5730\u4e3b\u914d\u5408\u5ea6",
       "id": "ai_understanding_landowner_cooperation"
     },
@@ -2875,7 +2875,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5730\u4e3b\u9593\u4eba\u8108\u95dc\u4fc2",
       "id": "ai_understanding_landowner_network"
     },
@@ -2888,7 +2888,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5730\u9707\u98a8\u96aa/\u9632\u707d\u578b\u90fd\u66f4",
       "id": "ai_understanding_earthquake_risk"
     },
@@ -2901,7 +2901,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u571f\u5730\u7522\u503c",
       "id": "ai_understanding_land_value"
     },
@@ -2914,7 +2914,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5e02\u5834\u8a0a\u606f",
       "id": "ai_understanding_market_info"
     },
@@ -2927,7 +2927,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u8ca1\u7522\u5b89\u5168",
       "id": "ai_understanding_property_security"
     },
@@ -2940,7 +2940,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u571f\u5730\u5927\u5c0f",
       "id": "ai_understanding_land_size"
     },
@@ -2953,7 +2953,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u6a5f\u6703\u8a55\u4f30",
       "id": "ai_understanding_opportunity_assessment"
     },
@@ -2966,7 +2966,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u5927\u90fd\u66f4\u6642\u4ee3/\u516c\u8fa6\u90fd\u66f42.0",
       "id": "ai_understanding_great_renewal_era"
     },
@@ -2979,7 +2979,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u6b0a\u5229\u8b8a\u63db\u6a21\u5f0f",
       "id": "ai_understanding_rights_transformation"
     },
@@ -2992,7 +2992,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "\u610f\u898b\u9818\u8896",
       "id": "ai_understanding_opinion_leader"
     },
@@ -3005,7 +3005,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "fb\u5f15\u6d41\u8cbc\u6587:\u908a\u7761\u908a\u5b78\u4e3b\u8cbc\u6587",
       "id": "fb_post_main_post"
     },
@@ -3018,7 +3018,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u5c0f\u5b87(\u6848\u4f8b\u4eba\u7269)",
       "id": "fb_post_xiaoyu"
     },
@@ -3031,7 +3031,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u65b0\u4eba\u985e\u806f\u76df",
       "id": "fb_post_new_human_alliance"
     },
@@ -3044,7 +3044,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u7761\u7720\u5b78\u7fd2/\u65b7\u7dda\u6b0a",
       "id": "fb_post_sleep_learning"
     },
@@ -3057,7 +3057,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u7559\u8a00\u5340\u7b2c\u4e00\u689d(\u7f6e\u9802)",
       "id": "fb_post_comment_first"
     },
@@ -3070,7 +3070,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "\u7559\u8a00\u5340\u7b2c\u4e8c\u689d(\u4e8c\u6b21\u64f4\u6563)",
       "id": "fb_post_comment_second"
     },
@@ -3083,7 +3083,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u53e4\u9a30\u5821",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_gutenberg"
     },
@@ -3096,7 +3096,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u5370\u5237\u6a5f",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_printing_press"
     },
@@ -3109,7 +3109,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u51fa\u7248\u5546",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_publisher"
     },
@@ -3122,7 +3122,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "l3 skill foundry",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_l3_skill_foundry"
     },
@@ -3135,7 +3135,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u7db2\u969b\u7db2\u8def",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_internet"
     },
@@ -3148,7 +3148,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "google",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_google"
     },
@@ -3161,7 +3161,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "amazon",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_amazon"
     },
@@ -3174,7 +3174,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "uber",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_uber"
     },
@@ -3187,7 +3187,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "airbnb",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_airbnb"
     },
@@ -3200,7 +3200,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "instagram",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_instagram"
     },
@@ -3213,7 +3213,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "skill.md",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_skill_md"
     },
@@ -3226,7 +3226,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u65b0\u4eba\u985e\u806f\u76df",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_new_human_alliance"
     },
@@ -3239,7 +3239,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u8c6a\u529b\u98a8\u795e",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_haoli_fengshen"
     },
@@ -3252,7 +3252,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "hermes",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_hermes"
     },
@@ -3265,7 +3265,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "saas",
       "id": "\u4e2d\u9593\u5c64\u9769\u547d_\u6539\u9020b_saas"
     },
@@ -3278,7 +3278,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u53e4\u9a30\u5821",
       "id": "\u5f9e\u5370\u5237\u6a5f\u5230ai_gutenberg"
     },
@@ -3291,7 +3291,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u5370\u5237\u6a5f",
       "id": "\u5f9e\u5370\u5237\u6a5f\u5230ai_printing_press"
     },
@@ -3304,7 +3304,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u7db2\u969b\u7db2\u8def",
       "id": "\u5f9e\u5370\u5237\u6a5f\u5230ai_internet"
     },
@@ -3317,7 +3317,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "iphone",
       "id": "\u5f9e\u5370\u5237\u6a5f\u5230ai_iphone"
     },
@@ -3330,7 +3330,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "ai",
       "id": "\u5f9e\u5370\u5237\u6a5f\u5230ai_ai"
     },
@@ -3343,7 +3343,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "norm_label": "uber eats",
       "id": "\u5f9e\u5370\u5237\u6a5f\u5230ai_uber_eats"
     },
@@ -3356,7 +3356,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u5c0f\u5b87",
       "id": "\u908a\u7761\u908a\u5b78_\u8def\u7ddac_xiaoyu"
     },
@@ -3369,7 +3369,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u8c6a\u529b\u98a8\u795e",
       "id": "\u908a\u7761\u908a\u5b78_\u8def\u7ddac_haoli_fengshen"
     },
@@ -3382,7 +3382,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "\u65b0\u4eba\u985e\u806f\u76df",
       "id": "\u908a\u7761\u908a\u5b78_\u8def\u7ddac_new_human_alliance"
     },
@@ -3395,7 +3395,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 6,
       "norm_label": "l3 skill",
       "id": "\u908a\u7761\u908a\u5b78_\u8def\u7ddac_l3_skill"
     },
@@ -3408,9 +3408,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_new_city_agent_system",
       "community": 10,
-      "norm_label": "agentic new city agent system"
+      "norm_label": "agentic new city agent system",
+      "id": "agentic_new_city_agent_system"
     },
     {
       "label": "Three-Layer Architecture",
@@ -3421,9 +3421,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "three_layer_architecture",
       "community": 10,
-      "norm_label": "three-layer architecture"
+      "norm_label": "three-layer architecture",
+      "id": "three_layer_architecture"
     },
     {
       "label": "Sensing Layer",
@@ -3434,9 +3434,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sensing_layer_agent",
       "community": 10,
-      "norm_label": "sensing layer"
+      "norm_label": "sensing layer",
+      "id": "sensing_layer_agent"
     },
     {
       "label": "Brain Layer (Graphify-based)",
@@ -3447,9 +3447,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brain_layer_agent",
       "community": 10,
-      "norm_label": "brain layer (graphify-based)"
+      "norm_label": "brain layer (graphify-based)",
+      "id": "brain_layer_agent"
     },
     {
       "label": "Execution Layer",
@@ -3460,9 +3460,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "execution_layer_agent",
       "community": 10,
-      "norm_label": "execution layer"
+      "norm_label": "execution layer",
+      "id": "execution_layer_agent"
     },
     {
       "label": "Digital Asset Gravity Theory",
@@ -3473,9 +3473,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "digital_asset_gravity",
       "community": 10,
-      "norm_label": "digital asset gravity theory"
+      "norm_label": "digital asset gravity theory",
+      "id": "digital_asset_gravity"
     },
     {
       "label": "Urban Renewal Coordination",
@@ -3486,9 +3486,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "urban_renewal_coordination",
       "community": 10,
-      "norm_label": "urban renewal coordination"
+      "norm_label": "urban renewal coordination",
+      "id": "urban_renewal_coordination"
     },
     {
       "label": "Technical Feasibility Assessment",
@@ -3499,9 +3499,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "technical_feasibility_assessment",
       "community": 10,
-      "norm_label": "technical feasibility assessment"
+      "norm_label": "technical feasibility assessment",
+      "id": "technical_feasibility_assessment"
     },
     {
       "label": "Sensing Layer Feasibility (88%)",
@@ -3512,9 +3512,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sensing_layer_feasibility",
       "community": 10,
-      "norm_label": "sensing layer feasibility (88%)"
+      "norm_label": "sensing layer feasibility (88%)",
+      "id": "sensing_layer_feasibility"
     },
     {
       "label": "Brain Layer Feasibility (100%)",
@@ -3525,9 +3525,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brain_layer_feasibility",
       "community": 10,
-      "norm_label": "brain layer feasibility (100%)"
+      "norm_label": "brain layer feasibility (100%)",
+      "id": "brain_layer_feasibility"
     },
     {
       "label": "Execution Layer Feasibility (95%)",
@@ -3538,9 +3538,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "execution_layer_feasibility",
       "community": 10,
-      "norm_label": "execution layer feasibility (95%)"
+      "norm_label": "execution layer feasibility (95%)",
+      "id": "execution_layer_feasibility"
     },
     {
       "label": "Phased Implementation (PHASE 0-3)",
@@ -3551,9 +3551,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "phased_implementation",
       "community": 10,
-      "norm_label": "phased implementation (phase 0-3)"
+      "norm_label": "phased implementation (phase 0-3)",
+      "id": "phased_implementation"
     },
     {
       "label": "Risk Mitigation Strategy",
@@ -3564,9 +3564,213 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "risk_mitigation",
       "community": 10,
-      "norm_label": "risk mitigation strategy"
+      "norm_label": "risk mitigation strategy",
+      "id": "risk_mitigation"
+    },
+    {
+      "label": "save_extraction.py",
+      "file_type": "code",
+      "source_file": "save_extraction.py",
+      "source_location": "L1",
+      "id": "d_ai_save_extraction_py",
+      "community": 21,
+      "norm_label": "save_extraction.py"
+    },
+    {
+      "label": "Agent \u6982\u5ff5",
+      "file_type": "rationale",
+      "source_file": "agent.md",
+      "source_location": "L1-L50",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": "Claude Code",
+      "id": "agent_agent_concept",
+      "community": 22,
+      "norm_label": "agent \u6982\u5ff5"
+    },
+    {
+      "label": "Claude Code Agent \u89d2\u8272\u5b9a\u4f4d",
+      "file_type": "rationale",
+      "source_file": "agent.md",
+      "source_location": "L11-L16",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "agent_role_positioning",
+      "community": 23,
+      "norm_label": "claude code agent \u89d2\u8272\u5b9a\u4f4d"
+    },
+    {
+      "label": "\u516d\u5c64\u7cfb\u7d71\u67b6\u69cb",
+      "file_type": "rationale",
+      "source_file": "agent.md",
+      "source_location": "L73-L101",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "agent_six_layer_system",
+      "community": 11,
+      "norm_label": "\u516d\u5c64\u7cfb\u7d71\u67b6\u69cb"
+    },
+    {
+      "label": "Agentic \u56db\u67f1",
+      "file_type": "rationale",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Agentic_Writing_Guide.md",
+      "source_location": "L105-L113",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "agentic_four_pillars",
+      "community": 11,
+      "norm_label": "agentic \u56db\u67f1"
+    },
+    {
+      "label": "\u9f8d\u8766\u793e\u5718 (\u91cf\u5316\u4ea4\u6613\u793e\u7fa4)",
+      "file_type": "rationale",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L50-L86",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "lobster_community",
+      "community": 11,
+      "norm_label": "\u9f8d\u8766\u793e\u5718 (\u91cf\u5316\u4ea4\u6613\u793e\u7fa4)"
+    },
+    {
+      "label": "\u65b0\u4eba\u985e\u806f\u76df (Homo Coalitio)",
+      "file_type": "rationale",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": "L47",
+      "source_url": null,
+      "captured_at": "2026-05-05",
+      "author": null,
+      "contributor": null,
+      "id": "homo_coalitio",
+      "community": 11,
+      "norm_label": "\u65b0\u4eba\u985e\u806f\u76df (homo coalitio)"
+    },
+    {
+      "label": "Facebook \u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L1-L758",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "facebook_traffic_success_case",
+      "community": 11,
+      "norm_label": "facebook \u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790"
+    },
+    {
+      "label": "Software 3.0 \u7684\u6563\u6236\u57fa\u790e\u8a2d\u65bd",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L12-L22",
+      "source_url": "https://aiagentcommander.substack.com/p/software-30",
+      "captured_at": "2026-05-04",
+      "author": null,
+      "contributor": null,
+      "id": "software_3_article",
+      "community": 11,
+      "norm_label": "software 3.0 \u7684\u6563\u6236\u57fa\u790e\u8a2d\u65bd"
+    },
+    {
+      "label": "Graphify \u77e5\u8b58\u5716\u8b5c\u5de5\u5177",
+      "file_type": "rationale",
+      "source_file": "\u6709\u8208\u8da3\u7684\u4e3b\u984c/agentic_new_city_\u4e3b\u9ad4\u898f\u5283.md",
+      "source_location": "L84-L142",
+      "source_url": null,
+      "captured_at": "2026-05-06",
+      "author": null,
+      "contributor": null,
+      "id": "graphify_tool",
+      "community": 11,
+      "norm_label": "graphify \u77e5\u8b58\u5716\u8b5c\u5de5\u5177"
+    },
+    {
+      "label": "2026.05.07 \u5de5\u4f5c\u65e5\u8a8c",
+      "file_type": "document",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L1-L271",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "work_log_20260507",
+      "community": 11,
+      "norm_label": "2026.05.07 \u5de5\u4f5c\u65e5\u8a8c"
+    },
+    {
+      "label": "\u6307\u63ee\u5b98\u6307\u4ee4\uff1agraphify \u6388\u6b0a",
+      "file_type": "rationale",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L182-L202",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "commander_instruction_graphify",
+      "community": 11,
+      "norm_label": "\u6307\u63ee\u5b98\u6307\u4ee4:graphify \u6388\u6b0a"
+    },
+    {
+      "label": "\u6307\u63ee\u5b98\u6307\u4ee4\uff1a\u8853\u8a9e\u8abf\u6574 (\u8d85\u7d1a\u500b\u9ad4\u2192\u65b0\u4eba\u985e\u806f\u76df)",
+      "file_type": "rationale",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L206-L225",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "commander_instruction_terminology",
+      "community": 11,
+      "norm_label": "\u6307\u63ee\u5b98\u6307\u4ee4:\u8853\u8a9e\u8abf\u6574 (\u8d85\u7d1a\u500b\u9ad4\u2192\u65b0\u4eba\u985e\u806f\u76df)"
+    },
+    {
+      "label": "\u6587\u7ae0\u767c\u5e03\u8ffd\u8e64\u7cfb\u7d71",
+      "file_type": "document",
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLICATION_TRACKER.md",
+      "source_location": "L1-L236",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "publication_tracker",
+      "community": 11,
+      "norm_label": "\u6587\u7ae0\u767c\u5e03\u8ffd\u8e64\u7cfb\u7d71"
+    },
+    {
+      "label": "\u5df2\u767c\u5e03\u6587\u7ae0\u5b8c\u6574\u76ee\u9304",
+      "file_type": "document",
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLISHED_INDEX.md",
+      "source_location": "L1-L293",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null,
+      "id": "published_index",
+      "community": 11,
+      "norm_label": "\u5df2\u767c\u5e03\u6587\u7ae0\u5b8c\u6574\u76ee\u9304"
+    },
+    {
+      "label": "AION \u4e16\u754c\u89c0",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": "L1-L372",
+      "source_url": null,
+      "captured_at": "2026-05-05",
+      "author": null,
+      "contributor": null,
+      "id": "aion_worldview",
+      "community": 11,
+      "norm_label": "aion \u4e16\u754c\u89c0"
     }
   ],
   "links": [
@@ -7659,6 +7863,126 @@
       "weight": 1.0,
       "source": "technical_feasibility_assessment",
       "target": "risk_mitigation"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "agent.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "agent_six_layer_system",
+      "target": "agentic_four_pillars"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "homo_coalitio",
+      "target": "agentic_four_pillars"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "facebook_traffic_success_case",
+      "target": "lobster_community"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "aion_worldview",
+      "target": "homo_coalitio"
+    },
+    {
+      "relation": "mandates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "commander_instruction_terminology",
+      "target": "homo_coalitio"
+    },
+    {
+      "relation": "analyzes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "facebook_traffic_success_case",
+      "target": "software_3_article"
+    },
+    {
+      "relation": "analyzes_using",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "facebook_traffic_success_case",
+      "target": "graphify_tool"
+    },
+    {
+      "relation": "tracks",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLICATION_TRACKER.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "publication_tracker",
+      "target": "software_3_article"
+    },
+    {
+      "relation": "indexes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLISHED_INDEX.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "published_index",
+      "target": "software_3_article"
+    },
+    {
+      "relation": "authorizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "commander_instruction_graphify",
+      "target": "graphify_tool"
+    },
+    {
+      "relation": "records",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "work_log_20260507",
+      "target": "commander_instruction_graphify"
+    },
+    {
+      "relation": "records",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "work_log_20260507",
+      "target": "commander_instruction_terminology"
     }
   ],
   "hyperedges": [
@@ -7702,5 +8026,5 @@
       "source_file": "\u6709\u8208\u8da3\u7684\u4e3b\u984c/agentic_new_city_\u4e3b\u9ad4\u898f\u5283.md"
     }
   ],
-  "built_at_commit": "e98ded61c0180d1fe2666a426fe3ed12a0ecc021"
+  "built_at_commit": "b82586fae19531100dd7587735215011254a00a3"
 }

@@ -1,101 +1,350 @@
 {
   "nodes": [
     {
-      "id": "aion",
-      "label": "AION生態",
-      "file_type": "rationale"
+      "id": "d_ai_save_extraction_py",
+      "label": "save_extraction.py",
+      "file_type": "code",
+      "source_file": "save_extraction.py",
+      "source_location": "L1"
     },
     {
-      "id": "agentic_alpha",
-      "label": "Agentic Alpha",
-      "file_type": "rationale"
+      "id": "agent_agent_concept",
+      "label": "Agent \u6982\u5ff5",
+      "file_type": "rationale",
+      "source_file": "agent.md",
+      "source_location": "L1-L50",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": "Claude Code"
     },
     {
-      "id": "middle_layer_revolution",
-      "label": "中間層革命",
-      "file_type": "rationale"
+      "id": "agent_role_positioning",
+      "label": "Claude Code Agent \u89d2\u8272\u5b9a\u4f4d",
+      "file_type": "rationale",
+      "source_file": "agent.md",
+      "source_location": "L11-L16",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "l3_skill",
-      "label": "L3 Skill Foundry",
-      "file_type": "rationale"
+      "id": "agent_six_layer_system",
+      "label": "\u516d\u5c64\u7cfb\u7d71\u67b6\u69cb",
+      "file_type": "rationale",
+      "source_file": "agent.md",
+      "source_location": "L73-L101",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "software3",
-      "label": "Software 3.0",
-      "file_type": "rationale"
+      "id": "agentic_four_pillars",
+      "label": "Agentic \u56db\u67f1",
+      "file_type": "rationale",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Agentic_Writing_Guide.md",
+      "source_location": "L105-L113",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "sleep_learning",
-      "label": "邊睡邊學",
-      "file_type": "rationale"
+      "id": "lobster_community",
+      "label": "\u9f8d\u8766\u793e\u5718 (\u91cf\u5316\u4ea4\u6613\u793e\u7fa4)",
+      "file_type": "rationale",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L50-L86",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
     },
     {
       "id": "homo_coalitio",
-      "label": "新人類聯盟",
-      "file_type": "rationale"
+      "label": "\u65b0\u4eba\u985e\u806f\u76df (Homo Coalitio)",
+      "file_type": "rationale",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": "L47",
+      "source_url": null,
+      "captured_at": "2026-05-05",
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "execution_sop",
-      "label": "執行層SOP",
-      "file_type": "document"
+      "id": "facebook_traffic_success_case",
+      "label": "Facebook \u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L1-L758",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "claude_code",
-      "label": "Claude Code",
-      "file_type": "rationale"
+      "id": "software_3_article",
+      "label": "Software 3.0 \u7684\u6563\u6236\u57fa\u790e\u8a2d\u65bd",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L12-L22",
+      "source_url": "https://aiagentcommander.substack.com/p/software-30",
+      "captured_at": "2026-05-04",
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "flow_concept",
-      "label": "流的概念",
-      "file_type": "rationale"
+      "id": "graphify_tool",
+      "label": "Graphify \u77e5\u8b58\u5716\u8b5c\u5de5\u5177",
+      "file_type": "rationale",
+      "source_file": "\u6709\u8208\u8da3\u7684\u4e3b\u984c/agentic_new_city_\u4e3b\u9ad4\u898f\u5283.md",
+      "source_location": "L84-L142",
+      "source_url": null,
+      "captured_at": "2026-05-06",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "work_log_20260507",
+      "label": "2026.05.07 \u5de5\u4f5c\u65e5\u8a8c",
+      "file_type": "document",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L1-L271",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "commander_instruction_graphify",
+      "label": "\u6307\u63ee\u5b98\u6307\u4ee4\uff1agraphify \u6388\u6b0a",
+      "file_type": "rationale",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L182-L202",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "commander_instruction_terminology",
+      "label": "\u6307\u63ee\u5b98\u6307\u4ee4\uff1a\u8853\u8a9e\u8abf\u6574 (\u8d85\u7d1a\u500b\u9ad4\u2192\u65b0\u4eba\u985e\u806f\u76df)",
+      "file_type": "rationale",
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L206-L225",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "publication_tracker",
+      "label": "\u6587\u7ae0\u767c\u5e03\u8ffd\u8e64\u7cfb\u7d71",
+      "file_type": "document",
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLICATION_TRACKER.md",
+      "source_location": "L1-L236",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "published_index",
+      "label": "\u5df2\u767c\u5e03\u6587\u7ae0\u5b8c\u6574\u76ee\u9304",
+      "file_type": "document",
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLISHED_INDEX.md",
+      "source_location": "L1-L293",
+      "source_url": null,
+      "captured_at": "2026-05-07",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aion_worldview",
+      "label": "AION \u4e16\u754c\u89c0",
+      "file_type": "document",
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": "L1-L372",
+      "source_url": null,
+      "captured_at": "2026-05-05",
+      "author": null,
+      "contributor": null
     }
   ],
   "edges": [
     {
-      "source": "aion",
-      "target": "agentic_alpha",
-      "relation": "contains",
+      "source": "d_ai_save_extraction_py",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
       "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "source_file": "save_extraction.py",
+      "source_location": "L1",
+      "weight": 1.0
     },
     {
-      "source": "middle_layer_revolution",
-      "target": "l3_skill",
-      "relation": "enables",
+      "source": "d_ai_save_extraction_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "save_extraction.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "agent_six_layer_system",
+      "target": "agentic_four_pillars",
+      "relation": "semantically_similar_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.85
+      "confidence_score": 0.85,
+      "source_file": "agent.md",
+      "source_location": null,
+      "weight": 1.0
     },
     {
-      "source": "l3_skill",
-      "target": "software3",
+      "source": "facebook_traffic_success_case",
+      "target": "software_3_article",
+      "relation": "analyzes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "facebook_traffic_success_case",
+      "target": "lobster_community",
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "aion_worldview",
+      "target": "homo_coalitio",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "homo_coalitio",
+      "target": "agentic_four_pillars",
       "relation": "implements",
       "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "confidence_score": 1.0,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md",
+      "source_location": null,
+      "weight": 1.0
     },
     {
-      "source": "sleep_learning",
-      "target": "homo_coalitio",
-      "relation": "exemplifies",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8
-    },
-    {
-      "source": "aion",
-      "target": "flow_concept",
-      "relation": "based_on",
+      "source": "work_log_20260507",
+      "target": "commander_instruction_graphify",
+      "relation": "records",
       "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L182",
+      "weight": 1.0
     },
     {
-      "source": "claude_code",
-      "target": "l3_skill",
-      "relation": "enables",
+      "source": "work_log_20260507",
+      "target": "commander_instruction_terminology",
+      "relation": "records",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L206",
+      "weight": 1.0
+    },
+    {
+      "source": "commander_instruction_terminology",
+      "target": "homo_coalitio",
+      "relation": "mandates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L212",
+      "weight": 1.0
+    },
+    {
+      "source": "publication_tracker",
+      "target": "software_3_article",
+      "relation": "tracks",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLICATION_TRACKER.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "published_index",
+      "target": "software_3_article",
+      "relation": "indexes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udce1-\u4e3b\u661f\u767c\u5e03\u5eab/PUBLISHED_INDEX.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "facebook_traffic_success_case",
+      "target": "graphify_tool",
+      "relation": "analyzes_using",
       "confidence": "INFERRED",
-      "confidence_score": 0.8
+      "confidence_score": 0.75,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "commander_instruction_graphify",
+      "target": "graphify_tool",
+      "relation": "authorizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "\ud83d\udcdd-\u5de5\u4f5c\u65e5\u8a8c\u5eab/2026.05.07-\u5de5\u4f5c\u65e5\u8a8c.md",
+      "source_location": "L185",
+      "weight": 1.0
     }
   ],
-  "hyperedges": [],
-  "input_tokens": 100443,
-  "output_tokens": 14671
+  "hyperedges": [
+    {
+      "id": "new_human_alliance_system",
+      "label": "\u65b0\u4eba\u985e\u806f\u76df\u67b6\u69cb",
+      "nodes": [
+        "homo_coalitio",
+        "agentic_four_pillars",
+        "software_3_article",
+        "lobster_community"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/AION_Worldview_v1.md"
+    },
+    {
+      "id": "facebook_traffic_pipeline",
+      "label": "Facebook \u5f15\u6d41\u7cfb\u7d71",
+      "nodes": [
+        "facebook_traffic_success_case",
+        "software_3_article",
+        "lobster_community",
+        "publication_tracker"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "\ud83c\udfaf-\u6230\u7565\u5fc3\u6cd5\u5eab/Facebook\u5f15\u6d41\u6210\u529f\u6848\u4f8b\u5206\u6790.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
 }

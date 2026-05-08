@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {"id": "agent_agent_concept", "label": "Agent 概念", "file_type": "rationale", "source_file": "agent.md", "source_location": "L1-L50", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": "Claude Code"},
+    {"id": "agent_role_positioning", "label": "Claude Code Agent 角色定位", "file_type": "rationale", "source_file": "agent.md", "source_location": "L11-L16", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "agent_six_layer_system", "label": "六層系統架構", "file_type": "rationale", "source_file": "agent.md", "source_location": "L73-L101", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "agentic_four_pillars", "label": "Agentic 四柱", "file_type": "rationale", "source_file": "🎯-戰略心法庫/Agentic_Writing_Guide.md", "source_location": "L105-L113", "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "lobster_community", "label": "龍蝦社團 (量化交易社群)", "file_type": "rationale", "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md", "source_location": "L50-L86", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "homo_coalitio", "label": "新人類聯盟 (Homo Coalitio)", "file_type": "rationale", "source_file": "🎯-戰略心法庫/AION_Worldview_v1.md", "source_location": "L47", "source_url": null, "captured_at": "2026-05-05", "author": null, "contributor": null},
+    {"id": "facebook_traffic_success_case", "label": "Facebook 引流成功案例分析", "file_type": "document", "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md", "source_location": "L1-L758", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "software_3_article", "label": "Software 3.0 的散戶基礎設施", "file_type": "document", "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md", "source_location": "L12-L22", "source_url": "https://aiagentcommander.substack.com/p/software-30", "captured_at": "2026-05-04", "author": null, "contributor": null},
+    {"id": "graphify_tool", "label": "Graphify 知識圖譜工具", "file_type": "rationale", "source_file": "有興趣的主題/agentic_new_city_主體規劃.md", "source_location": "L84-L142", "source_url": null, "captured_at": "2026-05-06", "author": null, "contributor": null},
+    {"id": "work_log_20260507", "label": "2026.05.07 工作日誌", "file_type": "document", "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L1-L271", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "commander_instruction_graphify", "label": "指揮官指令：graphify 授權", "file_type": "rationale", "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L182-L202", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "commander_instruction_terminology", "label": "指揮官指令：術語調整 (超級個體→新人類聯盟)", "file_type": "rationale", "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L206-L225", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "publication_tracker", "label": "文章發布追蹤系統", "file_type": "document", "source_file": "📡-主星發布庫/PUBLICATION_TRACKER.md", "source_location": "L1-L236", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "published_index", "label": "已發布文章完整目錄", "file_type": "document", "source_file": "📡-主星發布庫/PUBLISHED_INDEX.md", "source_location": "L1-L293", "source_url": null, "captured_at": "2026-05-07", "author": null, "contributor": null},
+    {"id": "aion_worldview", "label": "AION 世界觀", "file_type": "document", "source_file": "🎯-戰略心法庫/AION_Worldview_v1.md", "source_location": "L1-L372", "source_url": null, "captured_at": "2026-05-05", "author": null, "contributor": null}
+  ],
+  "edges": [
+    {"source": "agent_six_layer_system", "target": "agentic_four_pillars", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "agent.md", "source_location": null, "weight": 1.0},
+    {"source": "facebook_traffic_success_case", "target": "software_3_article", "relation": "analyzes", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md", "source_location": "L12", "weight": 1.0},
+    {"source": "facebook_traffic_success_case", "target": "lobster_community", "relation": "targets", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md", "source_location": "L50", "weight": 1.0},
+    {"source": "aion_worldview", "target": "homo_coalitio", "relation": "defines", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "🎯-戰略心法庫/AION_Worldview_v1.md", "source_location": "L47", "weight": 1.0},
+    {"source": "homo_coalitio", "target": "agentic_four_pillars", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "🎯-戰略心法庫/AION_Worldview_v1.md", "source_location": null, "weight": 1.0},
+    {"source": "work_log_20260507", "target": "commander_instruction_graphify", "relation": "records", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L182", "weight": 1.0},
+    {"source": "work_log_20260507", "target": "commander_instruction_terminology", "relation": "records", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L206", "weight": 1.0},
+    {"source": "commander_instruction_terminology", "target": "homo_coalitio", "relation": "mandates", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L212", "weight": 1.0},
+    {"source": "publication_tracker", "target": "software_3_article", "relation": "tracks", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "📡-主星發布庫/PUBLICATION_TRACKER.md", "source_location": "L14", "weight": 1.0},
+    {"source": "published_index", "target": "software_3_article", "relation": "indexes", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "📡-主星發布庫/PUBLISHED_INDEX.md", "source_location": null, "weight": 1.0},
+    {"source": "facebook_traffic_success_case", "target": "graphify_tool", "relation": "analyzes_using", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md", "source_location": null, "weight": 1.0},
+    {"source": "commander_instruction_graphify", "target": "graphify_tool", "relation": "authorizes", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "📝-工作日誌庫/2026.05.07-工作日誌.md", "source_location": "L185", "weight": 1.0}
+  ],
+  "hyperedges": [
+    {"id": "new_human_alliance_system", "label": "新人類聯盟架構", "nodes": ["homo_coalitio", "agentic_four_pillars", "software_3_article", "lobster_community"], "relation": "form", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "🎯-戰略心法庫/AION_Worldview_v1.md"},
+    {"id": "facebook_traffic_pipeline", "label": "Facebook 引流系統", "nodes": ["facebook_traffic_success_case", "software_3_article", "lobster_community", "publication_tracker"], "relation": "participate_in", "confidence": "EXTRACTED", "confidence_score": 0.95, "source_file": "🎯-戰略心法庫/Facebook引流成功案例分析.md"}
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
